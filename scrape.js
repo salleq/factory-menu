@@ -17,7 +17,11 @@ async function getLunch() {
 
     if (!title.match(/maanantai|tiistai|keskiviikko|torstai|perjantai/i)) return;
 
-    const menuText = $(el).next("p").html();
+    const nextP = $(el).next("p");
+
+    if (!nextP.length) return;
+
+    const menuText = nextP.html() || "";
 
     const items = menuText
       .split("<br>")
