@@ -12,27 +12,52 @@ async function getLunch() {
     week: []
   };
 
-  $(".list h3").each((i, el) => {
+  console.log("🔍 Käydään H3 elementit läpi...");
+
+  $("h3").each((i, el) => {
     const title = $(el).text().trim();
 
-    if (!title.match(/maanantai|tiistai|keskiviikko|torstai|perjantai/i)) return;
+    console.log("H3 FOUND:", title);
+
+    // matchataan viikonpäivät
+    if (!title.match(/maanantai|tiistai|keskiviikko|torstai|perjantai/i)) {
+      return;
+    }
 
     const nextP = $(el).next("p");
 
-    if (!nextP.length) return;
+    if (!nextP.length) {
+      console.log("⚠️ Ei löytynyt <p> elementtiä:", title);
+      return;
+    }
 
-    const menuText = nextP.html() || "";
+    const html = nextP.html();
 
-    const items = menuText
+    if (!html) {
+      console.log("⚠️ Tyhjä HTML:", title);
+      return;
+    }
+
+    const items = html
       .split("<br>")
-      .map(i => i.replace(/<[^>]+>/g, "").trim())
-      .filter(i => i);
+      .map(item =>
+        item
+          .replace(/<[^>]+>/g, "") // poista html tagit
+          .replace(/\s+/g, " ")
+          .trim()
+      )
+      .filter(item => item.length > 0);
+
+    console.log("✅ Päivä parsittu:", title, items.length, "riviä");
 
     result.week.push({
       day: title,
       menu: items
     });
   });
+
+  console.log("📦 LOPPUTULOS:");
+  console.log(JSON.stringify(result, null, 2));
 
   fs.writeFileSync("index.json", JSON.stringify(result, null, 2));
 }
