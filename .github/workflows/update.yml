@@ -30,17 +30,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add index.json
+          git add -A
 
-          # stash paikalliset muutokset
-          git stash
+          # pakotetaan commit vaikka Git ei huomaisi muutosta
+          git commit -m "update menu $(date +'%Y-%m-%d %H:%M:%S')" || echo "commit failed"
 
-          # hae uusimmat muutokset reposta
-          git pull --rebase
-
-          # palautetaan muutokset
-          git stash pop || true
-
-          git add index.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "update menu"
-          git push
+          git push --force
