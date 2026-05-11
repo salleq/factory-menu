@@ -1,56 +1,33 @@
 {
-  "updated": "2026-05-08T10:54:26.616Z",
+  "updated": "2026-05-11T16:17:19.419Z",
   "week": [
     {
-      "day": "Maanantai 4.5.2026",
+      "day": "Keskiviikko 13.5.2026",
       "menu": [
-        "Tomaatti-basilikakeitto chèvrejuustolla (VL+G+VS)",
-        "Grillattua lohta chimichurri-glaseerauksella (M+G+VS) paahdetut varhaisperunat (VE+G) tzatziki (L+G)",
-        "Mureaa porsaan ulkofilettä dijon-sinappi-kermakastikkeessa (L+G)",
-        "Maukas ratatouille runsaalla Härkiksellä ja tuoreilla yrteillä (VE+G+VS) basmatiriisi (VE+G)",
-        "Talon banaanipannukakku (L) vadelmahillo (VE+G) vaniljavaahto (L+G)"
-      ]
-    },
-    {
-      "day": "Tiistai 5.5.2026",
-      "menu": [
-        "Perinteinen pinaattikeitto (L+G) keitetyt kananmunat (M+G)",
-        "Factoryn chililihapullat yrttisessä tomaattikastikkeessa (L+G) voilla höystetty perunamuusi (L+G)",
-        "Rapeaksi paistettua kanan cordon bleu (VL) paistettu maissiriisi (VE+G) aioli (M+G+VS)",
-        "Tofu stir fry Sweet &amp; sour -kasviksilla, paksoilla ja cashewpähkinöillä (VE+G+VS+sis. pähkinää)",
-        "Factoryn jäätelöbaari (L+G)"
-      ]
-    },
-    {
-      "day": "Keskiviikko 6.5.2026",
-      "menu": [
-        "Kermainen lohikeitto (L+G)",
-        "Yön yli kypsennetty härän hanger steak pippurikastikkeella (M+G) uunilohkoperunat (VE+G)",
-        "Jerk-maustettua kanan paistileikettä mangosalsalla (M+G+VS) basmatiriisi (VE+G) raitakastike (VE+G+VS)",
-        "Vegaaninen Marry Me -pata mehevillä kaura-kasvissuikaleilla (VE+G+VS)",
-        "Snickers mousse (L+G+sis. pähkinää)"
-      ]
-    },
-    {
-      "day": "Torstai 7.5.2026",
-      "menu": [
-        "Savupotka-hernekeitto (M+G) pilkottua sipulia (VE+G)",
-        "Nepalilainen Butter Chicken (L+G+VS+sis. pähkinää) basmatiriisi (VE+G)",
-        "Talon ruispaneroidut muikut (L) perunamuusi (L+G) ruohosipuli-kermaviili (L+G)",
-        "Smetanalla höystetty makkara-stroganoff (L+G)",
-        "Grillattua parsa- ja kukkakaalia rapealla tofulla ja paahdetuilla kurpitsansiemenillä sekä balsamicosiirapilla (VE+G)",
+        "Savupotka hernekeittoa (M+G) pilkottua sipulia (VE+G)",
+        "Tee-se-itse BBQ-pekonihampurilaiset, pihvi (M+G+VS), sämpylä (VE) ranskalaiset (VE+G) marinoitu sipuli (VE+G) cheddarjuustokastike (L+G) aioli (VE+G+VS) suolakurkku (VE)",
+        "Grillatut yrtti-marinoidut kanan paistileikkeet paahdetuilla paprikoilla (M+G) basmatiriisi (VE+G)",
+        "tomaattinen salsa (VE+VS)",
+        "Vegaaninen chili sin carne kaura-kasvis -proteiinisuikaleilla (VE+G+VS)",
         "Factoryn letut (L) mansikkahillo (VE+G) vaniljavaahto (L+G) jäätelö (L+G)",
-        "Gluteenittomat letut ja vegaaniset letut (VE+G) (pyydetään erikseen keittiöstä)"
+        "Gluteenittomat letut ja vegaaniset letut (VE+G) (Pyydetään erikseen keittiöstä)"
       ]
     },
     {
-      "day": "Perjantai 8.5.2026",
+      "day": "Torstai 14.5.2026",
       "menu": [
-        "Pehmeän tulinen savuchili-bataattisosekeitto (L+G)",
-        "Rapeat paneroidut kampelafileet (L) paahdetut lohkoperunat (VE+G) limellä maustettu ruohosipulidippi (VE+G) sitruunalohkot",
-        "Korealaisella BBQ-kastikkeella glaseerattua nyhtöpossua (M+G+VS) jasmiiniriisi (VE+G)",
-        "Inkiväärillä maustetut parsakaali-perunafritterit savutofulla (VE+G)",
-        "Suklaa-tuorejuustokakku (L)"
+        "Hyvää Helatorstaita ! Ravintola on tänään kiinni."
+      ]
+    },
+    {
+      "day": "Perjantai 15.5.2026",
+      "menu": [
+        "Siskonmakkarakeitto (M+G)",
+        "Factoryn lihapullat savupekonikastikkeessa (L+G+VS) grillatut lohkoperunat (VE+G)",
+        "Rapeaksi paistettua tex mex -seitiä sitruunavinegretti-glaseerauksella (VL) remouladedippi (VE+G+VS)",
+        "Mausteinen intialainen kana-biryani tuoreella korianterilla (M+G+VS)",
+        "Vegaanista chili-marinoitua tofua ja grillattuja kasviksia teriyakikastikkeella (VE+G+VS)",
+        "Mokkapala (L) ja vaniljakastiketta (L+G)"
       ]
     }
   ]
