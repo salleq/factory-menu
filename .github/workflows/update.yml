@@ -1,4 +1,4 @@
-name: Update menu
+name: Update menu (github)
 
 on:
   push:
