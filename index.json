@@ -1,59 +1,61 @@
 {
-  "updated": "2026-10-23T08:27:46.211Z",
+  "updated": "2026-10-24T08:02:50.403Z",
   "week": [
     {
-      "day": "Maanantai 19.10.2026",
+      "day": "Maanantai 26.10.2026",
       "menu": [
-        "Tomaatti-lehtikaalikeitto (VE+G+VS)",
-        "Uunilohta raikkaalla limekastikkeella (L+G+VS) tillivoi-perunat (L+G)",
-        "Tex mex -kanatortillat cheddarhunnulla (VL+VS) salsadippi (VE+G) jalapeno",
-        "Pasta carbonara (L+VS) parmesaanilastut (VL+G)",
-        "Linssi-soijarouhe-härkis -bolognese tuoreella basilikalla (VE+G+VS) yrttipenneä (VE)",
-        "Marinoitu hedelmäsalaatti (VE+G) kanelivaahto (L+G) kuningatar kiisseli (VE+G)"
+        "Savuporo-juustokeitto (L+G)",
+        "Paahdettua lohifileetä sitruuna vinaigrettella (M+G) remoulade (M+G) voilla höystetty perunamuusi (L+G)",
+        "Grillattuja porsaan ulkofilepihvejä kolmen pippurin kastikkeessa (L+G) yrttiriisi (VE+G)",
+        "Vegaaninen hoisin-kasviswokki Härkiksellä (VE+G+VS)",
+        "Omena-raparperi-kaurapaistos (L+G) vaniljavaahtoa (L+G)"
       ]
     },
     {
-      "day": "Tiistai 20.10.2026",
+      "day": "Tiistai 27.10.2026",
       "menu": [
-        "Kermainen suppilovahverokeitto (L+G)",
-        "Factoryn lihapullat suolakurkku-smetana kastikkeessa (L+G) perunamuusi (L+G)",
-        "Mureaa kanan paistileikettä mausteisella Vindaloo-kastikkeella (M+G+VS) basmatiriisi (VE+G)",
-        "Itse tehdyt porkkanaohukaiset (L) puolukkahillo (VE+G)",
-        "Peruna-kukkakaalipaistos tofulla (VE+G+VS) basmatiriisi (VE+G)",
+        "Samettinen rapukeitto valkoviinissä (L+G)",
+        "Toscanan lihapullat täyteläisessä tomaatti-basilikakastikkeessa (M+G+VS) valkosipulikermaperunat (L+G+VS)",
+        "Kullan rapeaksi paistettua paneroitua kanaa Cordon Bleu (VL) bearnaisekastike (VL+G)",
+        "basmatiriisi (VE+G)",
+        "Itse tehdyt pinaattiohukaiset (L) puolukkahillo (VE+G)",
+        "Vegaaninen ratatouille runsaalla Härkiksellä ja tuoreilla yrteillä (VE+G+VS)",
         "Factoryn jäätelöbaari (L+G)"
       ]
     },
     {
-      "day": "Keskiviikko 21.10.2026",
+      "day": "Keskiviikko 28.10.2026",
       "menu": [
-        "Mausteinen chili-bataattikeitto (VE+G)",
-        "Mureaa pestomarinoitua kanan rintafilettä tuore basilika-bearnaisekastikkeessa (VL+G) basmatiriisi (VE+G)",
-        "Rapeat paneroidut porsaanleikkeet (M) remouladedippi (L+G) grilli-lohkoperunat (VE+G)",
-        "Oumph! -suikaleita ja kasviksia thaimaalaisessa kookos-limekastikkeessa (VE+G+VS)",
-        "Omenapiirakka (L) vaniljakastike (L+G)"
+        "Inkiväärillä maustettu porkkana-kookoskeitto (VE+G)",
+        "Sitruuna-parmesaanikanaa kermaisessa kastikkeessa (L+G) kurkumariisi (VE+G)",
+        "Istanbulin kebablastut mausteisella tomaattikastikkeessa (M+G+VS)",
+        "rapeat ranskalaiset (VE+G) turkkilaista jogurtti (L+G)",
+        "Paahdettuja rakuunaporkkanoita ja rapeaa sriracha-tofua suolapähkinöillä (VE+G+VS+sis.pähkinää)",
+        "Kuningatar-rahka valkosuklaanapeilla (VL+G) gluteeniton granola (VE+G)"
       ]
     },
     {
-      "day": "Torstai 22.10.2026",
+      "day": "Torstai 29.10.2026",
       "menu": [
-        "Hernekeitto (M+G) pilkottua sipulia (VE+G)",
-        "Factoryn pannupihvit timjamikastikkeella ja karamellisoidulla sipulilla (M+G) voilla höystetty perunamuusi (L+G)",
-        "Fish &amp; Chips – Rapeaksi paistettua tempura-paneroitua seitiä (VL) ranskalaiset (VE+G)",
-        "sitruuna-ruohosipulimajoneesi (L+G)",
-        "Buffalo-kastikkeella maustettu kana Mac &amp; Cheese(L+VS)",
-        "Bataatti-kukkakaalikorma paahdetuilla manteleilla ja tofulla (VE+G+VS) basmatiriisi (VE+G)",
+        "Savupotka-hernekeitto (M+G) pilkottua sipulia (VE+G)",
+        "Intialainen Butter Chicken täyteläisessä cashewpähkinäkastikkeessa (L+G+sis.pähkinää) basmatiriisi (VE+G)",
+        "Pitkään haudutettua naudanpaistia punaviinikastikkeessa (M+G) merisuolalla paahdetut perunat (VE+G)",
+        "Kasvis linssilasagne vege-juustolla ja mehevillä kaura-kasvis proteiinisuikaleilla (VE+VS)",
         "Factoryn letut (L) mansikkahillo (VE+G) vaniljavaahto (L+G) jäätelö (L+G)",
         "Gluteenittomat letut ja vegaaniset letut (VE+G) (Pyydetään erikseen keittiöstä)"
       ]
     },
     {
-      "day": "Perjantai 23.10.2026",
+      "day": "Perjantai 30.10.2026",
       "menu": [
-        "Kermainen lohikeitto (L+G)",
-        "Rapeaksi paistettu kanan sisäfilee (L) valkosipulijogurtti (L+G+VS) basmatiriisi (VE+G)",
-        "Haudutettua porsaankylkeä Cola-BBQ -kastikkeessa (M+G+VS) ranskalaiset (VE+G)",
-        "Kikherne-tofu Limonello tuoreella basilikalla (VE+G+VS) värikäs kasvis-couscous (VE)",
-        "Talon creme brulee suklaahipuilla (L+G)"
+        "Noidan taikapadan kermainen lohikeitto (L+G)",
+        "Draculan verenpunaiset naudan lehtipihvit:",
+        "Grillattuja kotimaisia naudan ulkofilee lehtipihvejä punaviini-BBQ-kastikkeella (M+G+VS)",
+        "paholaisen rapeita ranskalaisia (VE+G) ja noidan salaperäistä maustevoita (L+G)",
+        "Mehevää broileria kermaisessa Marry Me -zombie-kastikkeessa (L+G+VS) vampyyrin mustapapu-riisi (VE+G+VS)",
+        "Haamuinen kinkku-ananas-pizzaperjantai (L+VS)",
+        "Manalan liekeissä paistettu kurpitsa-tofu kasviskorma kaurakermalla (VE+G)",
+        "Keskiyön kummituksen friteerattuja churroja (VL) suklaakastike (L+G) vaniljajäätelö (L+G)"
       ]
     }
   ]
